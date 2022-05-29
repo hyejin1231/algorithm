@@ -52,8 +52,6 @@ class Solution5 {
         for (int i = 0; i < id_list.length; i++) {
             answer[i] = mail.get(id_list[i]);
         }
-
-
         return answer;
     }
 }
