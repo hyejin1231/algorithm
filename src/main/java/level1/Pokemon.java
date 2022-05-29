@@ -27,4 +27,13 @@ class Solution6 {
 
         return answer;
     }
+
+    public int solution2(int[] nums) {
+
+        int[] ints = Arrays.stream(nums).distinct().toArray();
+        int choice = nums.length / 2;
+
+        return ints.length > choice ? choice : ints.length;
+
+    }
 }
