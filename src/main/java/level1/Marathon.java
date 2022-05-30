@@ -2,6 +2,7 @@ package level1;
 
 import java.util.Arrays;
 
+// 완주하지 못한 선수
 public class Marathon {
     public static void main(String[] args) {
         Solution7 solution7 = new Solution7();
