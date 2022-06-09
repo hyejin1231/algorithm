@@ -2,6 +2,10 @@ package level1;
 
 import java.util.Arrays;
 
+/**
+ * 프로그래머스 레벨 1
+ * 예산
+ */
 public class Budget {
     public static void main(String[] args) {
         Solution9 solution9 = new Solution9();
