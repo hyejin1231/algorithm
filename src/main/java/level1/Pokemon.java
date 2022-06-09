@@ -35,6 +35,15 @@ class Solution6 {
         int choice = nums.length / 2;
 
         return ints.length > choice ? choice : ints.length;
-
     }
+
 }
+
+
+
+
+
+
+
+
+
